@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioLibrary", "Zeus\PortfolioLibrary.csproj", "{F6FD66DE-E7BB-497B-8843-CC9C12B9AC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioUI", "PortfolioUI\PortfolioUI.csproj", "{A69B1FAB-E3DA-4474-8C25-21B1F72FEFA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FD66DE-E7BB-497B-8843-CC9C12B9AC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FD66DE-E7BB-497B-8843-CC9C12B9AC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FD66DE-E7BB-497B-8843-CC9C12B9AC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FD66DE-E7BB-497B-8843-CC9C12B9AC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69B1FAB-E3DA-4474-8C25-21B1F72FEFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69B1FAB-E3DA-4474-8C25-21B1F72FEFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69B1FAB-E3DA-4474-8C25-21B1F72FEFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69B1FAB-E3DA-4474-8C25-21B1F72FEFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5C8DD3-53B8-4AE2-9EE6-FFBA330AE68D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.csproj.AssemblyReference.cache
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.PanelTest.resources
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.PortfolioEntry.resources
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.PortfolioVersionEntry.resources
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.Properties.Resources.resources
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.SearchForm.resources
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.csproj.GenerateResource.cache
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.AssemblyInfoInputs.cache
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.AssemblyInfo.cs
+F:\Zeus\PortfolioUI\obj\Debug\net8.0-windows\PortfolioUI.csproj.CoreCompileInputs.cache

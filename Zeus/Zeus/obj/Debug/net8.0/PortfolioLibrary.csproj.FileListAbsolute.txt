@@ -1,0 +1,12 @@
+F:\Zeus\Zeus\bin\Debug\net8.0\PortfolioLibrary.deps.json
+F:\Zeus\Zeus\bin\Debug\net8.0\PortfolioLibrary.dll
+F:\Zeus\Zeus\bin\Debug\net8.0\PortfolioLibrary.pdb
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.csproj.AssemblyReference.cache
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.AssemblyInfoInputs.cache
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.AssemblyInfo.cs
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.csproj.CoreCompileInputs.cache
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.dll
+F:\Zeus\Zeus\obj\Debug\net8.0\refint\PortfolioLibrary.dll
+F:\Zeus\Zeus\obj\Debug\net8.0\PortfolioLibrary.pdb
+F:\Zeus\Zeus\obj\Debug\net8.0\ref\PortfolioLibrary.dll
